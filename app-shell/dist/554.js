@@ -1,0 +1,1 @@
+(self.webpackChunkapp_shell=self.webpackChunkapp_shell||[]).push([[554],{554:function(e,n,s){"use strict";s.r(n);var l=s(893);n.default=function(){return(0,l.jsx)("div",{children:(0,l.jsx)("span",{children:"FOOTER"},void 0)},void 0)}}}]);

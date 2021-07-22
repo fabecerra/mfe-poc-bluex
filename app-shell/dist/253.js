@@ -1,0 +1,1 @@
+(self.webpackChunkapp_shell=self.webpackChunkapp_shell||[]).push([[253],{253:function(e,n,s){"use strict";s.r(n);var t=s(893),u=lazy((function(){return s.e(935).then(s.t.bind(s,370,23))}));n.default=function(){return(0,t.jsxs)("div",{children:["TOOL",(0,t.jsx)(u,{},void 0)]},void 0)}}}]);
